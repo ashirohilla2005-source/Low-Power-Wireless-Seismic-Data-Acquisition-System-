@@ -1,6 +1,6 @@
 🌍 Low-Power Wireless Seismic Data Acquisition System
 
-«An energy-efficient, high-resolution, wireless geophone-based sensing platform for seismic monitoring and vibration analysis.»
+An energy-efficient, high-resolution, wireless geophone-based sensing platform for seismic monitoring and vibration analysis.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-ESP32--C3-blue?style=for-the-badge" />
